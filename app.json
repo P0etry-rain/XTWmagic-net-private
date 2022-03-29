@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "Magicsoft",
+    "description": "XTWmagic-net-private",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
